@@ -11,6 +11,8 @@
 
 | package | compiled? | functional? | notes |
 |---|---|---|--|
-| openssl | ✔ | ? |
 | sed | ✔ | ✔ |
-| binutils | ✔ | ✔ |
+| binutils-unwrapped | ✔ | ✔ |
+| gmp | ✔ | ? |
+| openssl | ✔ | ? |
+| curl | ✔ |  |
