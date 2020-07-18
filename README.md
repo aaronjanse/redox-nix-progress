@@ -6,6 +6,7 @@
 |---|---|---|--|
 | relibc | ✔ | ✔ | from static.redox-os.org
 | gcc | ✔ | ✔ |
+| llvm | ✔ | ?
 
 #### Packages that have been cross-compiled
 
