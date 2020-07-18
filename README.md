@@ -17,3 +17,4 @@
 | gmp | ✔ | ? |
 | openssl | ✔ | ? |
 | curl | ✔ |  |
+| ncurses | ✔ |
